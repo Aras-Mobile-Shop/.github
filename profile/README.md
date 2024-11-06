@@ -5,7 +5,7 @@ A mobile shop website where users can contact and order mobile devices.
 ## Functionality 
 Implements 
 
-Frontend display
+Frontend display using Vite React 
 
 Backend server and database
 
